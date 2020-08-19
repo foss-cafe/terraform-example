@@ -22,7 +22,7 @@ variable "enabled" {
 
 variable "is_enabled" {
   description = "description"
-  default     = true
+  default     = false
 }
 
 variable "name" {
